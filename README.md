@@ -29,5 +29,5 @@ pipeline, a licensing and security system, and a shipped bilingual web build.
 
 ### Reach me
 - Email: hriskole3v@gmail.com
-- LinkedIn: https://uk.linkedin.com/in/hristiyan-kolev-24090b173
+- LinkedIn: https://linkedin.com/in/hristiyan-kolev-24090b173
 - Business: www.phisify.com
